@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Mobile Pos</string>
+
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_shopping_item">Shopping</string>
+    <string name="title_send_receipt">Send Receipt</string>
+    <string name="title_scan_item">Scan Item</string>
+    <string name="title_update_item_count">Update Item</string>
+    <string name="next">Next</string>
+    <string name="skip">Skip</string>
+    <string name="start">Start</string>
+    <string name="slide_1_title">Find Items</string>
+    <string name="slide_1_desc">You Can Scan &amp; Find Items</string>
+    <string name="slide_2_title">Shopping Count</string>
+    <string name="slide_2_desc">You Can Update Shopping Item Count</string>
+    <string name="slide_3_desc">Scan items &amp; Update Stock</string>
+    <string name="slide_3_title">Mobile Pos</string>
+
+    <string name="txt_count">Count: </string>
+    <string name="txt_qty">Qty: </string>
+    <string name="msg_data_not_found">Data Not Found</string>
+
+    <string name="dummy_content">Marksys\nMobile Pos</string>
+    <string name="msg_are_you_sure_want_to_exit">Are your sure want to Exit ?</string>
+
+    <string name="title_settings">Settings</string>
+    <string name="title_uploaded_files">Uploaded Files</string>
+    <string name="title_backup_files">Backup Files</string>
+    <string name="title_logout">Logout</string>
+
+    <string name="title_view_current_user">Current User</string>
+    <string name="title_view_backup">All Backup Files</string>
+    <string name="title_view_files">All Uploaded Files</string>
+
+    <string name="broadcast_dashboard">Broadcast Dashboard</string>
+    <string name="broadcast_update_item">Broadcast Update Item</string>
+    <string name="broadcast_view_upload_files">Broadcast Upload Files</string>
+
+    <string name="thread_dashboard_download">dashboardDownload</string>
+    <string name="thread_dashboard_reset">dashboardReset</string>
+    <string name="thread_dashboard_find_item">dashboardFind</string>
+    <string name="thread_upload_reset">uploadReset</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
